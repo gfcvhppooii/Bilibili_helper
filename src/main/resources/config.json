@@ -2,7 +2,7 @@
   "numberOfCoins": 5,
   "reserveCoins": 50,
   "selectLike": 0,
-  "monthEndAutoCharge": true,
+  "monthEndAutoCharge": false,
   "giveGift": true,
   "upLive": "0",
   "chargeForLove": "0",
